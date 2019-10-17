@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SharedPreferences</string>
+    <string name="qualNome">Qual é o seu nome?</string>
 </resources>
